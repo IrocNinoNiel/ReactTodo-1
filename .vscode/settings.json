@@ -1,0 +1,55 @@
+{
+  "breadcrumbs.enabled": false,
+  "css.validate": false,
+  "editor.fontFamily": "'Jetbrains Mono SemiBold', Consolas, 'Courier New', monospace",
+  "editor.fontSize": 12,
+  "editor.fontLigatures": true,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.formatOnSaveMode": "file",
+  "editor.letterSpacing": 0.2,
+  "editor.lineHeight": 28,
+  "editor.minimap.enabled": false,
+  "editor.renderWhitespace": "none",
+  "editor.trimAutoWhitespace": true,
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "explorer.decorations.badges": false,
+  "files.insertFinalNewline": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.tabSize": 2
+  },
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "cSpell.words": [
+    "cacheable",
+    "Darymell",
+    "fontfaceobserver",
+    "Gorial",
+    "iconify",
+    "nrwl",
+    "tailwindcss",
+    "todos",
+    "Villegas",
+    "webfonts",
+    "Whalberg"
+  ]
+}

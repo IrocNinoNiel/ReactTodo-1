@@ -1,0 +1,15 @@
+.mainHeader {
+  background-color: #2a2e4d;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.title {
+  text-align: right;
+  font-weight:500;
+  font-size: 16px;
+  color: #DEEBF8;
+}

@@ -1,0 +1,12 @@
+.main {
+  background: #E5E5E5;
+  margin: 18px 0px;
+  padding: 1px 10px;
+  cursor: pointer;
+}
+
+.itemText {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}

@@ -1,0 +1,32 @@
+.main {
+  background-color: #33373E;
+  padding: 30px;
+}
+
+.main > h2 {
+  font-weight: bold;
+  font-size: 40px;
+  text-align: left;
+  color: #fff;
+}
+
+.main > ul {
+  list-style: none;
+}
+
+.main > ul li {
+  font-size: 16px;
+  color: #fff;
+  text-align: left;
+  position: relative;
+}
+
+.main > ul li::before {
+  content: "\2022";
+  color: #61DAFB;
+  font-weight: bold;
+  /* display: inline-block; */
+  position: absolute;
+  width: 1em;
+  margin-left: -1em;
+}
